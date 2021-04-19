@@ -1,6 +1,6 @@
 # :beginner: Práctica de sección de contenido
 
-[Inicio |](/README.md) [Anterior |](4_tipos_de_header) [Siguiente](6_tipos_de_articles.md)
+[Inicio |](/README.md) [Anterior |](4_tipos_de_header.md) [Siguiente](6_tipos_de_articles.md)
 
 ## Tipos de section
 
@@ -57,4 +57,4 @@ Un section global seria sobre animales donde podriamos incluir cada animal en ot
 
 ---
 
-[Inicio |](/README.md) [Anterior |](4_tipos_de_header) [Siguiente](6_tipos_de_articles.md)
+[Inicio |](/README.md) [Anterior |](4_tipos_de_header.md) [Siguiente](6_tipos_de_articles.md)

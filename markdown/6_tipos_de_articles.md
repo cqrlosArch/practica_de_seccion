@@ -1,6 +1,6 @@
 # :beginner: Práctica de sección de contenido
 
-[Inicio |](/README.md) [Anterior |](5_tipos_sections) [Siguiente](7_ejemplos.md)
+[Inicio |](/README.md) [Anterior |](5_tipos_sections.md) [Siguiente](7_ejemplos.md)
 
 ## Tipos de articles
 
@@ -57,4 +57,4 @@ También existe el caso en el que un article contenga varias secciones, el artí
 ![github logo](/assets/github_logo_30.png) [Curso HTML 2020/2021](https://github.com/DorianDesings/html-2020-2021)  
 
 ---
-[Inicio |](/README.md) [Anterior |](5_tipos_sections) [Siguiente](7_ejemplos.md)
+[Inicio |](/README.md) [Anterior |](5_tipos_sections.md) [Siguiente](7_ejemplos.md)
