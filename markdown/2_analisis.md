@@ -10,9 +10,10 @@ A grandes rasgos podemos hacer la siguiente interpretación según el significad
 ---
 
 **Enlaces para navegar por la página**
+
 Inicio Personajes Comics Solicitar Información
 
-**Título principal del documento**
+**Título principal del documento**  
 Los Vengadores (The Avengers)
 
 ---
