@@ -120,7 +120,6 @@ Marvel's Avengers
 
 
 
-
 ---
 
 ![youtube logo](/assets/youtube_logo_30.png) [#16 Práctica de sección de contenido _ Curso de HTML 2020/2021](https://youtu.be/67gV0jmgbUc)
@@ -129,4 +128,5 @@ Marvel's Avengers
 ![github logo](/assets/github_logo_30.png) [Curso HTML 2020/2021](https://github.com/DorianDesings/html-2020-2021)  
 
 ---
+
 [Inicio |](/README.md) [Anterior |](1_texto.md) [Siguiente](3_estructura.md)

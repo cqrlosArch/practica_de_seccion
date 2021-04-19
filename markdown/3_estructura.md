@@ -31,4 +31,5 @@ Recuerda que dentro de title puedes incluir el nombre de la página, esto es de 
 ![github logo](/assets/github_logo_30.png) [Curso HTML 2020/2021](https://github.com/DorianDesings/html-2020-2021)  
 
 ---
+
 [Inicio |](/README.md) [Anterior |](2_analisis.md) [Siguiente](4_tipos_de_header.md)

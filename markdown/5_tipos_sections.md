@@ -48,8 +48,6 @@ Un section también puede anidar otros sections como por ejemplo, para definir c
 Un section global seria sobre animales donde podriamos incluir cada animal en otro section para brindar más información sobre ese animal (Animales > Elefante > Características)
  
 
-
-
 ---
 
 ![youtube logo](/assets/youtube_logo_30.png) [#16 Práctica de sección de contenido _ Curso de HTML 2020/2021](https://youtu.be/67gV0jmgbUc)
@@ -58,4 +56,5 @@ Un section global seria sobre animales donde podriamos incluir cada animal en ot
 ![github logo](/assets/github_logo_30.png) [Curso HTML 2020/2021](https://github.com/DorianDesings/html-2020-2021)  
 
 ---
+
 [Inicio |](/README.md) [Anterior |](4_tipos_de_header) [Siguiente](6_tipos_de_articles.md)

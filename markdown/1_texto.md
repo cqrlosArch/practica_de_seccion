@@ -1,4 +1,5 @@
 # :beginner: Práctica de sección de contenido
+
 [Inicio |](/README.md) [Siguiente](2_analisis.md)
 
 ## Texto de la práctica 
@@ -48,4 +49,5 @@ Marvel's Avengers
 ![github logo](/assets/github_logo_30.png) [Curso HTML 2020/2021](https://github.com/DorianDesings/html-2020-2021)  
 
 ---
+
 [Inicio |](/README.md) [Siguiente](2_analisis.md)
