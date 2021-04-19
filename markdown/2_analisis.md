@@ -112,6 +112,8 @@ Un grupo en constante cambio
 
 Uno de los principales atractivos de la formación, en los cómics claro, es la incesante marea de superhéroes que pasan por Los Vengadores. No en vano, hasta la fecha, son más de 75 los superhéroes que han formado parte del grupo y que podemos dividir en tres categorías: miembros completos (los que acuden a todas las misiones), reservas (que van cuando algún superhéroe no puede) y honorarios (que nunca formaron parte oficial de Los Vengadores pero se les otorga este cargo como reconocimiento a alguna ayuda prestada).
 
+---  
+
 **Footer**  
 
 Marvel's Avengers

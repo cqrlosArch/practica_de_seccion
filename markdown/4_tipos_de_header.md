@@ -1,6 +1,6 @@
 # :beginner: Práctica de sección de contenido
 
-[Inicio |](/README.md) [Anterior |](3_estructura.md) [Siguiente](5_tipos_de_sections.md)
+[Inicio |](/README.md) [Anterior |](3_estructura.md) [Siguiente](5_tipos_sections.md)
 
 ## Tipos de header
 
@@ -62,4 +62,4 @@ La forma correcta de crear el menú de navegación es la que contiene una lista 
 ![github logo](/assets/github_logo_30.png) [Curso HTML 2020/2021](https://github.com/DorianDesings/html-2020-2021)  
 
 ---
-[Inicio |](/README.md) [Anterior |](3_estructura.md) [Siguiente](5_tipos_de_sections.md)
+[Inicio |](/README.md) [Anterior |](3_estructura.md) [Siguiente](5_tipos_sections.md)

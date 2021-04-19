@@ -12,7 +12,7 @@
 - [Análisis del texto](/markdown/2_analisis.md)
 - [Estructura básica del documento html](/markdown/3_estructura.md)
 - [Tipos de header](/markdown/4_tipos_de_header.md)
-- [Tipos de section definicion mdn](/markdown/5_tipos_sections)
+- [Tipos de section](/markdown/5_tipos_sections)
 - [Tipos de article](/markdown/6_tipos_de_articles.md)
 - [Ejemplos](/markdown/7_ejemplos.md)
 - [Generalidades](/markdown/8_generalidades.md)
