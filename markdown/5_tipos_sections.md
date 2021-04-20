@@ -5,6 +5,7 @@
 ## Tipos de section
 
 Recordemos que section es un contenedor genérico que agrupa contenido que está relacionado. 
+El contenido del elemento section debería ser temático, por lo que sería incorrecto emplearlo de forma genérica para agrupar piezas no relacionadas con el contenido.
 Cuando creamos bloques cuyo contenido es parte de un bloque total usaremos section.
 
 *Nota: section también puede contener header o header y footer, los cuales son opcionales. Pero SÏ debe contener al menos un heading, título de sección.* 
